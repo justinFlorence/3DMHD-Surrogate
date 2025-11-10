@@ -28,7 +28,6 @@ pinn-mhd-orszag-tang/
 ├── data/
 │   ├── raw/              # Raw HDF5 benchmark files from AGATE (Zenodo)
 │   └── processed/        # Preprocessed NumPy archive for training
-├── notebooks/            # Experimentation and visualization
 ├── results/              # Saved results and plots
 ├── scripts/
 │   └── train_pinn.py     # Entry point for training (non-SLURM)
